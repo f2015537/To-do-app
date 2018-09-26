@@ -34,7 +34,7 @@ $ npm  -v
 ```
 There should be no errors if node was installed correctly.
 
-Install all dependencies in package.json file. This can be done by navigating to the cloned communities directory in the command prompt/terminal/console and running the following commands:
+Install all dependencies in package.json file. This can be done by navigating to the cloned To-do-app directory in the command prompt/terminal/console and running the following commands:
 
 ```
 $ cd To-do-app
